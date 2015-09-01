@@ -1,0 +1,27 @@
+{
+  "name": "nodeshell",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Matt Edelman",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "express": "^4.13.3",
+    "proper-lockfile": "^1.0.1",
+    "shelljs": "^0.5.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/grawk/nodeshell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grawk/nodeshell/issues"
+  },
+  "homepage": "https://github.com/grawk/nodeshell#readme",
+  "description": ""
+}
